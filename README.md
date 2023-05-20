@@ -1,5 +1,3 @@
-# Math564-Applied-Stats-Project
-
 # Credit Card Customer Churn
 
 This project was developed as part of the Applied Statistics course (MATH 564) at Illinois Institute of Technology. The objective of this project was to compare different machine learning models and select the one that predicts customer churn best using R.
